@@ -1,0 +1,5 @@
+clouzer/json/ClzJsonObjectTest.class
+clouzer/json/ClzJsonArrayTest.class
+clouzer/json/performance/ClzJsonArraytPerformanceTest.class
+clouzer/json/performance/ClzJsonObjectPerformanceTest.class
+clouzer/json/AppTest.class
